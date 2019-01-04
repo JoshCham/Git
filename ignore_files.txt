@@ -1,0 +1,4 @@
+subl .gitignore
+specific file: MyFile.ext
+File Pattern: *.ext
+Folder: my-folder/
